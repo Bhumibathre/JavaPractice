@@ -4,7 +4,7 @@ public class javabasics8 {
         int a = 67;
         int b = 45; 
         int sum = a+b ;  
-        System.out.println(sum);
+        System.out.println(sum); 
         
  
     }
