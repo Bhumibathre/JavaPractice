@@ -6,6 +6,6 @@ public class javabasics8 {
         int sum = a+b ;  
         System.out.println(sum);
         
-
+ 
     }
 }
