@@ -7,7 +7,7 @@
         System.out.println(ch);  
         boolean dec = true;
         System.out.println(dec);
-        float pyc=  3.6f ;
+        float pyc=  3.6f ; 
         System.out.println(pyc);
         int number=89; 
         System.out.println(number);
