@@ -4,7 +4,7 @@ public class javabasics6 {
         byte b= 100;
         System.out.println(b);
         char ch='a';
-        System.out.println(ch);
+        System.out.println(ch);  
         boolean dec = true;
         System.out.println(dec);
         float pyc=  3.6f ;
