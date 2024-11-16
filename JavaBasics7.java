@@ -9,7 +9,7 @@ public class javabasics6 {
         System.out.println(dec);
         float pyc=  3.6f ;
         System.out.println(pyc);
-        int number=89;
+        int number=89; 
         System.out.println(number);
         double db = 56.78;
         System.out.println(db);
