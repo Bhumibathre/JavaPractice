@@ -1,4 +1,4 @@
-public class javabasics6 {
+ public class javabasics6 {
     public static void main(String args[]){
   
         byte b= 100;
